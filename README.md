@@ -1,2 +1,2 @@
-# react-todo
+# React-practice
 Created with CodeSandbox
